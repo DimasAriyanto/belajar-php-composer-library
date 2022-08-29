@@ -1,0 +1,19 @@
+{
+    "name": "kuliahprogrammer/belajar-php-composer-library",
+    "description": "Belajar PHP Composer Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kuliahprogrammer\\BelajarPhpComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DimasAriyanto",
+            "email": "dimas.ariyanto32@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
