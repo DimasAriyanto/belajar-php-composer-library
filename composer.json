@@ -1,19 +1,19 @@
 {
-    "name": "kuliahprogrammer/belajar-php-composer-library",
-    "description": "Belajar PHP Composer Library",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Kuliahprogrammer\\BelajarPhpComposerLibrary\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "DimasAriyanto",
-            "email": "dimas.ariyanto32@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=8.0"
+  "name": "kuliahprogrammer/belajar-php-composer-hello",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dimas Ariyanto",
+      "email": "dimas.ariyanto32@gmail.com"
     }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ProgrammerZamanNow\\Belajar\\": "src/"
+    }
+  }
 }
