@@ -1,6 +1,6 @@
 <?php
 
-namespace KuliahProgrammer\BelajarPhpComposerLibrary;
+namespace KuliahProgrammer\Belajar;
 
 class Customer
 {

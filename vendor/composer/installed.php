@@ -3,7 +3,7 @@
         'name' => 'kuliahprogrammer/belajar-php-composer-hello',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8c3cf650effe6dae8f34d0e12012f1fc15d63f39',
+        'reference' => '285250c5a809dcb07733e35980f8a9e07770be03',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'kuliahprogrammer/belajar-php-composer-hello' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8c3cf650effe6dae8f34d0e12012f1fc15d63f39',
+            'reference' => '285250c5a809dcb07733e35980f8a9e07770be03',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
